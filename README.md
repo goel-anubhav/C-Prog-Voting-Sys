@@ -5,7 +5,7 @@
     -> Keeps a record of  every voting process.
 
 # How to use?
-### You can fork or download the repo, Once you have both the files "MAIN.C" and "ELECTION.H", You just need to compile and run MAIN.C
+### You can fork or download the repo, Once you have both the files "MAIN.C" and "CODE.H", You just need to compile and run MAIN.C
 #### ( It's too easy, isn't it? ☺)
 ##### For Admin Panel Use Username: "Admin" Password: "admiN"
 
